@@ -1,0 +1,32 @@
+# Node modules (frontend y backend)
+node_modules/
+
+# Archivos de entorno
+.env
+.env.local
+
+# Salidas de build
+dist/
+build/
+
+# Cachés de Vite
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Cobertura de tests
+coverage/
+
+# Archivos temporales
+*.tmp
+*.swp
