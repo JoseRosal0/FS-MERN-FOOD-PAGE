@@ -1,5 +1,4 @@
-import { useState } from 'react'
-import menu from "../src/assets/menu.png"
+
 import {Header} from "../src/components/Header.jsx"
 import { ProductsSection } from './components/ProductsSection.jsx'
 import {Information} from "./components/Information.jsx"
