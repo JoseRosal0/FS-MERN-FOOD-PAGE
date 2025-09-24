@@ -1,7 +1,7 @@
 import { useContext } from "react"
-import { MyContext } from "../context/myContext"
-import { usevalid } from "../hooks/useProducts"
-import { HAMBURGERS ,TACOS ,BREAKFAST} from "../data/json"
+import { MyContext } from "../../context/myContext"
+import { usevalid } from "../../hooks/useProducts"
+import { HAMBURGERS ,TACOS ,BREAKFAST} from "../../data/json"
 
 export const MenuPoducts = ()=>{
   const {products}=useContext(MyContext)

@@ -1,6 +1,6 @@
-import circle1 from "../assets/circle1.svg";
-import circle2 from "../assets/circle2.svg";
-import sarten from "../assets/sarten.png";
+import circle1 from "../../assets/circle1.svg";
+import circle2 from "../../assets/circle2.svg";
+import sarten from "../../assets/sarten.png";
 
 export const Information = ()=>{
     return(

@@ -1,7 +1,9 @@
-import {Header} from "../components/Header.jsx"
-import { ProductsSection } from '../components/ProductsSection.jsx'
-import {Information} from "../components/Information.jsx"
-import { Footer } from '../components/Footer.jsx'
+import {Header} from "../components/HomeComponets/Header.jsx"
+import { ProductsSection } from '../components/HomeComponets/ProductsSection.jsx'
+import {Information} from "../components/HomeComponets/Information.jsx"
+import { Footer } from '../components/HomeComponets/Footer.jsx'
+import '../styles/App.css';
+
 
 export const ProductsPage = ()=>{
     return(

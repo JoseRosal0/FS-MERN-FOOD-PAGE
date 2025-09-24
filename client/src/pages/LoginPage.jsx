@@ -1,3 +1,5 @@
+import "../styles/Login.css"
+
 
 export const LoginPage= ()=>{
     return(

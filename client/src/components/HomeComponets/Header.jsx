@@ -1,8 +1,8 @@
-import logo from "../assets/logo.svg";
-import menu from "../assets/menu.png";
-import car from "../assets/car.svg";
+import logo from "../../assets/logo.svg";
+import menu from "../../assets/menu.png";
+import car from "../../assets/car.svg";
 /*import arrow from "../assets/arrow.svg";*/
-import hamburgerHeader from "../assets/hamburger-header.png";
+import hamburgerHeader from "../../assets/hamburger-header.png";
 
 const NavBar= ()=>{
     return(

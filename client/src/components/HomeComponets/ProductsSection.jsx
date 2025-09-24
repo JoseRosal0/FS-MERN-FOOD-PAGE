@@ -1,7 +1,7 @@
-import hoja from "../assets/hoja.png"
+import hoja from "../../assets/hoja.png"
 import { useContext} from "react"
-import { MyContext } from "../context/myContext"
-import { usevalid } from "../hooks/useProducts"
+import { MyContext } from "../../context/myContext"
+import { usevalid } from "../../hooks/useProducts"
 import { Card } from "./ProductsCard"
 import { MenuPoducts } from "./MenuProducts"
 

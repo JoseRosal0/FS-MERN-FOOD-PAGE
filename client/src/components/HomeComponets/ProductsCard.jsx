@@ -1,6 +1,6 @@
 import { useContext } from "react";
-import { MyContext } from "../context/myContext";
-import car from "../assets/car.svg"
+import { MyContext } from "../../context/myContext";
+import car from "../../assets/car.svg"
 
 
 export const Card = () => {

@@ -1,7 +1,7 @@
-import logo from "../assets/logo.svg";
-import social1 from "../assets/s1.svg";
-import social2 from "../assets/s2.svg";
-import social3 from "../assets/s3.svg";
+import logo from "../../assets/logo.svg";
+import social1 from "../../assets/s1.svg";
+import social2 from "../../assets/s2.svg";
+import social3 from "../../assets/s3.svg";
 
 export const Footer= ()=>{
     return(
